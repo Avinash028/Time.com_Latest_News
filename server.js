@@ -43,29 +43,42 @@ request(url, function(err,response,html){
 
         arr.push(store);
 
+        data.title="";
+        data.url="https://time.com";
+        
+
         data.title=v2;
-        data.url+="https://time.com";
+        //data.url+="https://time.com";
         data.url+=l2;
 
         var store = JSON.stringify(data);
 
         arr.push(store);
 
+        data.title="";
+        data.url="https://time.com";
+
         data.title=v3;
-        data.url+="https://time.com";
+        //data.url+="https://time.com";
         data.url+=l3;
 
         var store = JSON.stringify(data);
 
         arr.push(store);
 
+        data.title="";
+        data.url="https://time.com";
+
         data.title=v4;
-        data.url+="https://time.com";
+        //data.url+="https://time.com";
         data.url+=l4;
 
         var store = JSON.stringify(data);
 
         arr.push(store);
+
+        data.title="";
+        data.url="https://time.com";
 
         data.title=v5;
         
