@@ -8,4 +8,8 @@ How to Run
 
 3)Do npm install to install the requird node modules.
 
-4)To start the server , type the command npm server.js
+4) Create the folder views and place the index.html file inside it.
+
+5)To start the server , type the command npm server.js
+
+6)Go to http://localhost:3300/ , to see the latest news.
