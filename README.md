@@ -12,4 +12,4 @@ How to Run
 
 5)To start the server , type the command npm server.js
 
-6)Go to http://localhost:3300/ , to see the latest news.
+6)Go to http://localhost:3000/ , to see the latest news.
