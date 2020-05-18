@@ -8,8 +8,10 @@ How to Run
 
 3)Do npm install to install the requird node modules.
 
-4) Create the folder views and place the index.html file inside it.
+4)DO npm i path express ejs if required
 
-5)To start the server , type the command npm server.js
+5) Create the folder views and place the index.html file inside it.
 
-6)Go to http://localhost:3000/ , to see the latest news.
+6)To start the server , type the command npm server.js
+
+7)Go to http://localhost:3000/ , to see the latest news.
